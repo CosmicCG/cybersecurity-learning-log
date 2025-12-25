@@ -1,4 +1,4 @@
-# cybersecurity-learning-log
+# Cybersecurity-Learning-Log
 A log to capture the knowledge that I have obtained and continue to obtain throughout my cybersecurity journey
 
 Format
